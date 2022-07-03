@@ -15,6 +15,10 @@ function function1(){
 		leaked.textContent = 'Oh no! 5m users data of this site has leaked - https://www.nulled.to/topic/943533-stronghold-kingdoms-2018-database-leaked-download/'
 	}else if(input1.value == 'leet.cc'){
 		leaked.textContent = 'Oh no! 6m users data of this site has leaked - https://zero-allians.ru/threads/leet-cc-database-leaked-august-2016-free-download.1621/'
+	}else if(input1.value == '000webhost.com'){
+		leaked.textContent = 'Oh no! 13m users data of this site has leaked - https://eleaks.to/threads/000webhost-database-leaked-download.9/'
+	}else if(input1.value == 'bookmate.com'){
+		leaked.textContent = 'Oh no! 8m users data of this site has leaked - https://reversing.center/threads/bookmate-partial-database-leaked-july-2018-free-download.2268/'
 	}else{
 		leaked.textContent = 'Good news! users data of this site not leaked'
 	}
