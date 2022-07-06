@@ -17,8 +17,18 @@ function function1(){
 		leaked.textContent = 'Oh no! 6m users data of this site has leaked - https://zero-allians.ru/threads/leet-cc-database-leaked-august-2016-free-download.1621/'
 	}else if(input1.value == '000webhost.com'){
 		leaked.textContent = 'Oh no! 13m users data of this site has leaked - https://eleaks.to/threads/000webhost-database-leaked-download.9/'
-	}else if(input1.value == 'bookmate.com'){
-		leaked.textContent = 'Oh no! 8m users data of this site has leaked - https://reversing.center/threads/bookmate-partial-database-leaked-july-2018-free-download.2268/'
+	}else if(input1.value == 'zynga.com'){
+		leaked.textContent = 'Oh no! 17m users data of this site has leaked - https://crackingall.com/topic/3934-zynga-database-2020-17m-leaked-download/?tab=comments#comment-97294'
+	}else if(input1.value == 'myheritage.com'){
+		leaked.textContent = 'Oh no! 92m users data of this site has leaked - https://breached.to/Thread-MyHeritage-Database-Leaked-Download'
+	}else if(input1.value == 'dubsmash.com'){
+		leaked.textContent = 'Oh no! 162m users data of this site has leaked - https://combo-list.net/threads/dubsmash-database-leaked-december-2018-free-download.13451/'
+	}else if(input1.value == 'gogames.me'){
+		leaked.textContent = 'Oh no! 3m users data of this site has leaked - https://eleaks.to/threads/gogames-me-database-leaked-download.7717/'
+	}else if(input1.value == 'fling.com'){
+		leaked.textContent = 'Oh no! 40m users data of this site has leaked - https://zone1b.com/threads/dehashed-fling-com-database-combo-leaked-march-2011-free-download.750/'	
+	}else if(input1.value == 'r2Games.com'){
+		leaked.textContent = 'Oh no! 3m users data of this site has leaked - https://breached.to/Thread-R2Games-2019-forum-breach-Database-Leaked-Download'	
 	}else{
 		leaked.textContent = 'Good news! users data of this site not leaked'
 	}
