@@ -35,6 +35,14 @@ function function1(){
 		leaked.textContent = 'Oh no! 427m users data of this site has leaked - https://sudonull.com/post/23296-Torrent-with-427-million-MySpace-passwords'	
 	}else if(input1.value == 'aptoide.com'){
 		leaked.textContent = 'Oh no! 39m users data of this site has leaked - https://github.com/hacxx-underground/Files/blob/main/(39mil)%20Aptoide.com%20Database%20Leaked%20April%202020%20-%20Free%20Download'	
+	}else if(input1.value == 'cafepress.com'){
+		leaked.textContent = 'Oh no! 23m users data of this site has leaked - https://leakzone.net/Thread-CafePress-database-partial-500k-sample-leaked-February-2019-Free-Download '	
+	}else if(input1.value == 'myfitnesspal.com'){
+		leaked.textContent = 'Oh no! 144m users data of this site has leaked - https://hacxx.freeforumzone.com/mobile/d/11733198/MyFitnessPal-com-Dehashed-database-leaked-June-2019-50M-Lines-Free-Download/discussione.aspx'	
+	}else if(input1.value == 'verifications.io'){
+		leaked.textContent = 'Oh no! 763m users data of this site has leaked - https://eleaks.to/threads/verification-io-database-leaked-download.1925/'	
+	}else if(input1.value == 'verifications.io'){
+		leaked.textContent = 'Oh no! 763m users data of this site has leaked - https://eleaks.to/threads/verification-io-database-leaked-download.1925/'	
 	}else{
 		leaked.textContent = 'Good news! users data of this site not leaked'
 	}
