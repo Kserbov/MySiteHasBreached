@@ -1,3 +1,9 @@
+function clickhref1(){
+	window.open('https://patreon.com/kirillnegr')
+}
+function clickhref2(){
+	window.open('https://github.com/Kserbov/MySiteHasBreached')
+}
 function function1(){
 	if(input1.value == 'vimeworld.ru'){
 		leaked.textContent = 'Oh no! 5m users data of this site has leaked - https://disk.yandex.ru/d/kgBwHDGQsfQiFg'
