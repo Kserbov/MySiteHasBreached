@@ -49,6 +49,20 @@ function function1(){
 		leaked.textContent = 'Oh no! 763m users data of this site has leaked - https://eleaks.to/threads/verification-io-database-leaked-download.1925/'	
 	}else if(input1.value == 'verifications.io'){
 		leaked.textContent = 'Oh no! 763m users data of this site has leaked - https://eleaks.to/threads/verification-io-database-leaked-download.1925/'	
+	}else if(input1.value == 'bookchor.com'){
+		leaked.textContent = 'Oh no! 0,5m users data of this site has leaked - https://breached.to/Thread-Bookchor-Database-Leaked-Download'	
+	}else if(input1.value == '123rf.com'){
+		leaked.textContent = 'Oh no! 8m users data of this site has leaked - https://archive.ph/MRlGl'	
+	}else if(input1.value == '126.com'){
+		leaked.textContent = 'Oh no! 283m users data of this site has leaked - https://breached.to/Thread-NetEase-163-com-126-com-Database-Leaked-Download'	
+	}else if(input1.value == '17173.com'){
+		leaked.textContent = 'Oh no! 7m users data of this site has leaked - https://reversing.center/threads/17173-database-leaked-2011-free-download.2223/'	
+	}else if(input1.value == '500px.com'){
+		leaked.textContent = 'Oh no! 14m users data of this site has leaked - https://cracked.io/Thread-14-9M-500px-com-Database-%E2%80%93-Leaked'	
+	}else if(input1.value == '8fit.com'){
+		leaked.textContent = 'Oh no! 1m users data of this site has leaked - https://github.com/hacxx-underground/Files/blob/main/8Fit.com%20Partial%201.1M%20Email:Pass%20Dehashed%20January%202021%20-%20Free%20Download'	
+	}else if(input1.value == 'aimware.net'){
+		leaked.textContent = 'Oh no! 1m users data of this site has leaked - https://breached.to/Thread-Aimware-Database-Leaked-Download'	
 	}else{
 		leaked.textContent = 'Good news! users data of this site not leaked'
 	}
