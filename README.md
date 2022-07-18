@@ -4,3 +4,4 @@
 ## Other
 ![Site](https://github.com/Kserbov/MySiteHasBreached/blob/main/images/favicon.png)
 - https://patreon.com/kirillnegr - support project
+- https://t.me/mysitehasbreached - official channel
