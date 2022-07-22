@@ -8,7 +8,7 @@ function function1(){
 	if(input1.value == 'vimeworld.ru'){
 		leaked.textContent = 'Oh no! 5m users data of this site has leaked - https://disk.yandex.ru/d/kgBwHDGQsfQiFg'
 	}else if(input1.value == 'wattpad.com'){
-		leaked.textContent = 'Oh no! 271m users data of this site has leaked  - https://clck.ru/sMGGZ'
+		leaked.textContent = 'Oh no! 271m users data of this site has leaked  - http://stoodsef.com/3CPa'
 	}else if(input1.value == 'mail.ru'){
 		leaked.textContent = 'Oh no! 4m users data of this site has leaked - https://dfiles.eu/files/vcq9une6u'
 	}else if(input1.value == 'yandex.ru'){
@@ -16,7 +16,7 @@ function function1(){
 	}else if(input1.value == 'animoto.com'){
 		leaked.textContent = 'Oh no! 22m users data of this site has leaked - https://breached.to/Thread-Animoto-Database-Leaked-Download'
 	}else if(input1.value == 'badoo.com'){
-		leaked.textContent = 'Oh no! 112m users data of this site has leaked - https://clck.ru/sMGHc'
+		leaked.textContent = 'Oh no! 112m users data of this site has leaked - http://stoodsef.com/3CRS'
 	}else if(input1.value == 'strongholdkingdoms.com'){
 		leaked.textContent = 'Oh no! 5m users data of this site has leaked - https://www.nulled.to/topic/943533-stronghold-kingdoms-2018-database-leaked-download/'
 	}else if(input1.value == 'leet.cc'){
@@ -28,7 +28,7 @@ function function1(){
 	}else if(input1.value == 'myheritage.com'){
 		leaked.textContent = 'Oh no! 92m users data of this site has leaked - https://breached.to/Thread-MyHeritage-Database-Leaked-Download'
 	}else if(input1.value == 'dubsmash.com'){
-		leaked.textContent = 'Oh no! 162m users data of this site has leaked - https://inlnk.ru/0QXPvG'
+		leaked.textContent = 'Oh no! 162m users data of this site has leaked - http://stoodsef.com/3CS7'
 	}else if(input1.value == 'gogames.me'){
 		leaked.textContent = 'Oh no! 3m users data of this site has leaked - https://eleaks.to/threads/gogames-me-database-leaked-download.7717/'
 	}else if(input1.value == 'fling.com'){
